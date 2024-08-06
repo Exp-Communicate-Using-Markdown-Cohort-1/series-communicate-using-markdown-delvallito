@@ -16,7 +16,15 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+![Image of Pou]([https://octodex.github.com/images/yaktocat.png](https://media.vandal.net/m/21721/pou-20141911610_1.jpg))
 
+- [x] Text
+- [x] Image
+- [ ] Merge
 <details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
