@@ -6,7 +6,7 @@
 -->
 
 # Communicate using Markdown
-
+# Here we can edit the code.
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
@@ -37,7 +37,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 ```
-
+#### Check this part of the code. 
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
