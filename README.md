@@ -25,6 +25,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Text
 - [x] Image
 - [ ] Merge
+
+
 <details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
@@ -45,8 +47,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 ```
-#### Check this part of the code. 
-#### How it looks
+### Check this part of the code. 
+###### How it looks
 
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
